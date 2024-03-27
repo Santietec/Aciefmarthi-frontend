@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5rem;
+    border-bottom: 1px solid #333;
+
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    flex-wrap: wrap;
+    margin-top: 5rem;
+    
+}
